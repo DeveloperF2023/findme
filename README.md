@@ -1,16 +1,36 @@
 # findme
 
-A new Flutter project.
+It is a mobile application like instagram I created by flutter Bloc Clean Architecture and Firebase
 
-## Getting Started
+![app2](https://github.com/DeveloperF2023/findme/assets/152172904/87daa2aa-206c-42bb-923b-c7b9dbd4e454)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This project has many features:
+- Login Page (access to Home Page)
+- Sign Up Page(registration account with upload image)
+- Home Page  (Posts, Comments, like posts, fetch user's post, edit and delete post)
+- Post Page(post page with caption,images discription)
+- Profile Page
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Firebase
+
+What's Firebase
+
+
+Firebase is an app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.
+
+https://github.com/DeveloperF2023/findme/assets/152172904/832a6f51-4f42-4acb-a836-61d9d1698bd6
+
+## Clean Architecture 
+
+Clean Architecture is a software design paradigm introduced by Robert C. Martin, and it aims to create maintainable and scalable software by organizing the codebase into distinct layers with clear dependencies and responsibilities.
+
+![CleanArchitecture](https://github.com/DeveloperF2023/findme/assets/152172904/d7c40e39-66bf-430a-9f41-bc07cc78bee1)
+
+
+
+
+
+
