@@ -1,0 +1,12 @@
+import 'package:social/features/domain/repositories/firebase_repository.dart';
+
+import '../../../entities/comments/comment_entity.dart';
+
+class DeleteCommentUseCase{
+  final FirebaseRepository repository;
+
+  DeleteCommentUseCase({required this.repository});
+  Future<void> callback(CommentEntity comment){
+    return repository.deleteComment(comment);
+  }
+}

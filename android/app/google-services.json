@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647082862205",
+    "project_id": "instagram-ab9b8",
+    "storage_bucket": "instagram-ab9b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647082862205:android:e9e70fd3ddfbd8eccf3314",
+        "android_client_info": {
+          "package_name": "com.example.findme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZGLlVpikUpKqRzzAhurvGS7sHq6ac1LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
